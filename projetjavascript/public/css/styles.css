@@ -1,0 +1,182 @@
+
+/*accueil*/
+
+.accueil {
+  color:#56585b;
+  background-color:#fff;
+  font-family:'Lora', serif;
+  font-size:14px;
+}
+.intro {
+  font-size:16px;
+  margin:0 auto 30px;
+}
+.intro h1 {
+  font-size:40px;
+  margin-bottom:15px;
+  line-height:1.5;
+  color:inherit;
+  margin-top:40px;
+  text-align: center;
+
+}
+.intro img {
+  margin-top:20px;
+}
+.text p {
+  margin-bottom:20px;
+  line-height:1.45;
+  font-family: 'lora',serif;
+}
+/* Nutrition et bienfaits*/
+.rec {
+  color:#313437;
+  background-color:#eef4f7;
+  padding:50px 0 55px;
+  overflow:hidden;
+}
+.rec h2 {
+  font-weight:bold;
+  margin-bottom:50px;
+  line-height:1.5;
+  padding-top:0;
+  margin-top:0;
+  color:inherit;
+}
+
+.rec .intro {
+  font-size:18px;
+  max-width:500px;
+  line-height:1.5;
+}
+.rec .intro p {
+  margin-bottom:35px;
+}
+.rec img{
+  position:relative;
+  max-width:260px;
+  margin-top:-30px;
+  margin-bottom:-230px;
+  transform:rotate(-15deg);
+}
+/*formulaire*/
+.renseigner {
+  background:#f1f7fc;
+  padding:80px 0;
+}
+
+.renseigner .image-holder {
+  display:table-cell;
+  background-size:cover;
+}
+
+.renseigner .form-container {
+  display:table;
+  max-width:900px;
+  max-height:900px;
+  width:90%;
+  height: 90%;
+  margin:0 auto;
+  box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+}
+
+.renseigner form {
+  display:table-cell;
+  width:400px;
+  background-color:#ffffff; 
+  padding:40px 60px;
+  color:#505e6c;
+}
+.renseigner form h2 {
+  font-size:24px;
+  line-height:1.5;
+  margin-bottom:30px;
+}
+
+form .form-control {
+  background:#f7f9fc;
+  border:none;
+  border-bottom:1px solid #dfe7f1;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+  text-indent:6px;
+  height:40px;
+}
+/*footer*/
+.footer-basic {
+  padding:40px 0;
+  background-color:#ffffff;
+  color:#4b4c4d;
+}
+footer li {
+  padding:0 10px;
+}
+footer .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+footer .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+footer .social > a:hover {
+  opacity:0.9;
+}
+footer .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+/*animation*/
+#div1
+{
+  width:100px;
+  height:80px;
+  background-color:red;"
+}
+#div2
+{
+  width:100px;
+  height:80px;
+  background-color:#1AB702;"
+}
+#div3
+{
+  width:100px;
+  height:80px;
+  background-color:purple;"
+}
+
+#div4
+{
+  width:40px;
+  height:80px;
+  background-color:pink;"
+  position: absolute;
+}
+#div5
+{
+  width:40px;
+  height:100px;
+  background-color:aqua;
+  margin-bottom:20px;
+  margin-top: 20px;
+}
+
+
+
+
+
+ 
